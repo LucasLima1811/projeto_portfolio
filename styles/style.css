@@ -101,6 +101,7 @@ body{
 
 .apresentacao__imagem{
     width: 50%;
+    border-radius: 35px;
 }
 
 .rodape{
