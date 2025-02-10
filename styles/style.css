@@ -102,6 +102,8 @@ body{
 .apresentacao__imagem{
     width: 50%;
     border-radius: 35px;
+    border: 10px solid var(--cor-terciaria);
+    padding: 10px;
 }
 
 .rodape{
